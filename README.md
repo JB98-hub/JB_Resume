@@ -1,0 +1,1 @@
+These are some of the practice sets and guided projects I have completed as prep for a job in the data domain. Some contents/visualizations in some of my PowerBI dashboards will not work because they require a paid PowerBI licence to work as intended.
